@@ -8,7 +8,7 @@
         欢迎使用 ASP.NET!//Git测试
     </h2>
     <p>
-        若要了解关于 ASP.NET 的详细信息，请访问 <a href="http://www.asp.net/cn" title="ASP.NET 网站">www.asp.net/cn</a>。
+        Git第二次提交
     </p>
     <p>
         您还可以找到 <a href="http://go.microsoft.com/fwlink/?LinkID=152368"
