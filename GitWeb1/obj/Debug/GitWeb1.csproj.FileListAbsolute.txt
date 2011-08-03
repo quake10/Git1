@@ -1,0 +1,5 @@
+e:\users\teng\documents\visual studio 2010\Projects\GitWeb1\GitWeb1\bin\GitWeb1.dll
+e:\users\teng\documents\visual studio 2010\Projects\GitWeb1\GitWeb1\bin\GitWeb1.pdb
+e:\users\teng\documents\visual studio 2010\Projects\GitWeb1\GitWeb1\obj\Debug\ResolveAssemblyReference.cache
+e:\users\teng\documents\visual studio 2010\Projects\GitWeb1\GitWeb1\obj\Debug\GitWeb1.dll
+e:\users\teng\documents\visual studio 2010\Projects\GitWeb1\GitWeb1\obj\Debug\GitWeb1.pdb
