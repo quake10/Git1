@@ -12,6 +12,9 @@
             Git第5次提交
         </div>
         <div>
+            //Test Commit 6
+        </div>
+        <div>
             //删除行
         </div>
         <div>
